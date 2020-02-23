@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab3-seacrist</string>
+    <string name = "CSCI_220">CSCI220</string>
+    <string name = "CSCI_392">CSCI392</string>
+    <string name = "CSCI_380">CSCI380</string>
+    <string name = "CSCI_480">CSCI480</string>
+    <string name = "CSCI_470">CSCI470</string>
+    <string name = "CSCI_495">CSCI495</string>
+
+</resources>
